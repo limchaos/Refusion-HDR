@@ -1,5 +1,5 @@
 
-## Refusion-HDR (ICCV AIM2025 Inverse Tone Mapping Challenge) 
+## Refusion-HDR (ICCV AIM 2025 Inverse Tone Mapping Challenge) 
 
 Our solution simply use [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023), more details please check [[official implementation]](https://github.com/Algolzw/image-restoration-sde). </sub>
 
