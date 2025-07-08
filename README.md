@@ -1,5 +1,7 @@
 
-## Image Restoration SDE <br><sub>Official PyTorch Implementations of [[IR-SDE]](https://proceedings.mlr.press/v202/luo23b.html)(ICML 2023) and [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023). </sub>
+## Refusion-HDR (ICCV AIM2025 Inverse Tone Mapping Challenge) 
+
+Our solution simply use the from [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023), [[official implementation]](https://github.com/Algolzw/image-restoration-sde). </sub>
 
 [Ziwei Luo](https://algolzw.github.io/), 
 [Fredrik K. Gustafsson](https://www.fregu856.com/), 
