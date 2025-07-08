@@ -44,8 +44,8 @@ python run_itm.py -opt_path options/test/refusion.yml -input_dir AIM_TEST -outpu
 Pretrained model [here](https://www.dropbox.com/scl/fi/yg44t2i9tgrlsn3c1punc/lastest_EMA.pth?rlkey=fhjb37o34i9yt12337pyed5gi&st=43psqej3&dl=0) on ICCV AIM2025 Inverse Tone Mapping Challenge datasets.
 
 ### Some Results
-![Refusion](figs/results.png)
-<div align='center'>HR Non-Homogeneous Dehazing</div>
+![Refusion](figs/HDR.png)
+<div align='center'>Inverse Tone Mapping</div>
 
 
 ## Citations
