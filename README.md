@@ -49,7 +49,7 @@ Pretrained model [here](https://www.dropbox.com/scl/fi/yg44t2i9tgrlsn3c1punc/las
 
 
 ## Citations
-If our code helps your research or work, please consider citing our paper.
+If this solution helps your research or work, please cite.
 The following are BibTeX references:
 
 ```
@@ -69,11 +69,3 @@ The following are BibTeX references:
   year={2023}
 }
 ```
-
----
-
-#### Contact
-E-mail: ziwei.luo@it.uu.se
-
-#### --- Thanks for your interest! --- ####
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Algolzw/image-restoration-sde)
