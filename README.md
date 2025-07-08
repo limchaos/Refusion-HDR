@@ -43,29 +43,9 @@ python run_itm.py -opt_path options/test/refusion.yml -input_dir AIM_TEST -outpu
 
 Pretrained model [here](https://www.dropbox.com/scl/fi/yg44t2i9tgrlsn3c1punc/lastest_EMA.pth?rlkey=fhjb37o34i9yt12337pyed5gi&st=43psqej3&dl=0) on ICCV AIM2025 Inverse Tone Mapping Challenge datasets.
 
-### Gradio
-Here we provide an [app.py](https://github.com/Algolzw/image-restoration-sde/blob/main/codes/config/deraining/app.py) file for testing your own images. Before that, you need to download the pretrained weights and modify the model path in `test_sde_derain.yml`. Then by simply running `python app.py`, you can open `http://localhost:7860` to test the model. (We also provide 3 raining images from Rain100H in `images` dir).
-
 ### Some Results
-![IR-SDE](figs/results.png)
+![Refusion](figs/results.png)
 <div align='center'>HR Non-Homogeneous Dehazing</div>
-
-![Refusion](figs/results_dehazing.png)
-
-<div align='center'>Image Shadow Removal</div>
-
-![Refusion](figs/results_deshadow.png)
-
-### Interpolation
-We also provide a interpolation demo to perform interpolation between two images in `codes/demos/interpolation.py`, the usage is:
-
-```bash
-cd codes/demos
-python interpolation.py -s source_image_path -t target_image_path --save save_dir
-```
-
-#### Example of interpolation:
-![IR-SDE](figs/interpolation.png)
 
 
 ## Citations
