@@ -1,7 +1,7 @@
 
 ## Refusion-HDR (ICCV AIM 2025 Inverse Tone Mapping Challenge) 
 
-Our solution simply use extra data from [[HDRCNN]](https://computergraphics.on.liu.se/hdrcnn/)(TOG 2017) and [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023), more details please check [[official implementation]](https://github.com/Algolzw/image-restoration-sde). </sub>
+Our solution simply use extra data from [[HDRCNN]](https://computergraphics.on.liu.se/hdrcnn/)(TOG 2017) and [[Refusion]](https://github.com/Algolzw/image-restoration-sde)(CVPRW 2023). </sub>
 
 ## Dependenices
 
@@ -53,6 +53,21 @@ If this solution helps your research or work, please cite;)
 The following are BibTeX references:
 
 ```
+@article{EKDMU17,
+  author       = "Eilertsen, Gabriel and 
+                  Kronander, Joel, and 
+                  Denes, Gyorgy and 
+                  Mantiuk, Rafa\l and 
+                  Unger, Jonas",
+  title        = "HDR image reconstruction from a single 
+                  exposure using deep CNNs",
+  journal      = "ACM Transactions on Graphics (TOG)",
+  number       = "6",
+  volume       = "36",
+  articleno    = "178",
+  year         = "2017"
+}
+
 @article{luo2023image,
   title={Image Restoration with Mean-Reverting Stochastic Differential Equations},
   author={Luo, Ziwei and Gustafsson, Fredrik K and Zhao, Zheng and Sj{\"o}lund, Jens and Sch{\"o}n, Thomas B},
