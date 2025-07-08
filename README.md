@@ -54,11 +54,7 @@ The following are BibTeX references:
 
 ```
 @article{EKDMU17,
-  author       = "Eilertsen, Gabriel and 
-                  Kronander, Joel, and 
-                  Denes, Gyorgy and 
-                  Mantiuk, Rafa\l and 
-                  Unger, Jonas",
+  author       = "Eilertsen, Gabriel and Kronander, Joel, and Denes, Gyorgy and Mantiuk, Rafa\l and Unger, Jonas",
   title        = "HDR image reconstruction from a single 
                   exposure using deep CNNs",
   journal      = "ACM Transactions on Graphics (TOG)",
