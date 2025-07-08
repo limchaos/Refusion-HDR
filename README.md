@@ -1,7 +1,7 @@
 
 ## Refusion-HDR (ICCV AIM 2025 Inverse Tone Mapping Challenge) 
 
-Our solution simply use extra data from [[HDRCNN]](https://computergraphics.on.liu.se/hdrcnn/)(TOG 2017) with [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023), more details please check [[official implementation]](https://github.com/Algolzw/image-restoration-sde). </sub>
+Our solution simply use extra data from [[HDRCNN]](https://computergraphics.on.liu.se/hdrcnn/)(TOG 2017) and [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 2023), more details please check [[official implementation]](https://github.com/Algolzw/image-restoration-sde). </sub>
 
 ## Dependenices
 
