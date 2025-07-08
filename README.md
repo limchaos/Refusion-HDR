@@ -31,7 +31,7 @@ torchrun --nproc_per_node=4 --master_port=4321 train.py -opt=options/train/refus
 ```
 
 Then the models and training logs will save in `log/HDR_sde/`. 
-You can print your log at time by running `tail -f log/HDR_sde/train_derain_sde_***.log -n 100`.
+You can print your log at time by running `tail -f log/HDR_sde/train_HDR_sde_***.log -n 100`.
 
 ### Evaluation
 To evaluate our method, please modify the benchmark path and model path and run
