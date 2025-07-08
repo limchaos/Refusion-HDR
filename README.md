@@ -16,7 +16,7 @@ Our solution simply use [[Refusion]](https://arxiv.org/abs/2304.08291)(CVPRW 202
 ## How to use our Code?
 
 ### Train
-The main code for training is in `codes/config/deraining` and the core algorithms for IR-SDE is in `codes/utils/sde_utils.py`.
+The main code for training is in `codes/config/HDR`.
 
 You can train the model following below bash scripts:
 
@@ -34,7 +34,7 @@ Then the models and training logs will save in `log/HDR_sde/`.
 You can print your log at time by running `tail -f log/HDR_sde/train_HDR_sde_***.log -n 100`.
 
 ### Evaluation
-To evaluate our method, please modify the benchmark path and model path and run
+To evaluate on any dataset, please modify the benchmark path and model path and run
 
 ```bash
 cd codes/config/HDR
@@ -49,7 +49,7 @@ Pretrained model [here](https://www.dropbox.com/scl/fi/yg44t2i9tgrlsn3c1punc/las
 
 
 ## Citations
-If this solution helps your research or work, please cite.
+If this solution helps your research or work, please cite;)
 The following are BibTeX references:
 
 ```
